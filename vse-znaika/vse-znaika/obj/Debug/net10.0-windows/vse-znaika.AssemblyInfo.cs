@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("vse-znaika")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4ffa3acbb7b80cc99c99e187224ddffbb029e51")]
+=======
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5e3de6238d6d3aac0e723cdb3d7a83b37a97446")]
+>>>>>>> dcff06d126e7a6a5bece25b9645e894d61736d3e
 [assembly: System.Reflection.AssemblyProductAttribute("vse-znaika")]
 [assembly: System.Reflection.AssemblyTitleAttribute("vse-znaika")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\vse-znaika\JasmineHomeVideo\vse-znaika\vse-znaika\obj\Debug\net10.0-windows\vse_znaika.Form1.resources
 C:\vse-znaika\JasmineHomeVideo\vse-znaika\vse-znaika\obj\Debug\net10.0-windows\vse_znaika.Form2.resources
 C:\vse-znaika\JasmineHomeVideo\vse-znaika\vse-znaika\obj\Debug\net10.0-windows\vse_znaika.Properties.Resources.resources
@@ -18,3 +19,25 @@ C:\vse-znaika\JasmineHomeVideo\vse-znaika\vse-znaika\obj\Debug\net10.0-windows\v
 C:\vse-znaika\JasmineHomeVideo\vse-znaika\vse-znaika\obj\Debug\net10.0-windows\vse-znaika.genruntimeconfig.cache
 C:\vse-znaika\JasmineHomeVideo\vse-znaika\vse-znaika\obj\Debug\net10.0-windows\ref\vse-znaika.dll
 C:\vse-znaika\JasmineHomeVideo\vse-znaika\vse-znaika\obj\Debug\net10.0-windows\vse-znaika.csproj.Up2Date
+=======
+C:\Jasmine\JasmineHomeVideo\JasmineHomeVideo\vse-znaika\vse-znaika\bin\Debug\net10.0-windows\vse-znaika.exe
+C:\Jasmine\JasmineHomeVideo\JasmineHomeVideo\vse-znaika\vse-znaika\bin\Debug\net10.0-windows\vse-znaika.deps.json
+C:\Jasmine\JasmineHomeVideo\JasmineHomeVideo\vse-znaika\vse-znaika\bin\Debug\net10.0-windows\vse-znaika.runtimeconfig.json
+C:\Jasmine\JasmineHomeVideo\JasmineHomeVideo\vse-znaika\vse-znaika\bin\Debug\net10.0-windows\vse-znaika.dll
+C:\Jasmine\JasmineHomeVideo\JasmineHomeVideo\vse-znaika\vse-znaika\bin\Debug\net10.0-windows\vse-znaika.pdb
+C:\Jasmine\JasmineHomeVideo\JasmineHomeVideo\vse-znaika\vse-znaika\obj\Debug\net10.0-windows\vse_znaika.Form1.resources
+C:\Jasmine\JasmineHomeVideo\JasmineHomeVideo\vse-znaika\vse-znaika\obj\Debug\net10.0-windows\vse_znaika.Form2.resources
+C:\Jasmine\JasmineHomeVideo\JasmineHomeVideo\vse-znaika\vse-znaika\obj\Debug\net10.0-windows\vse_znaika.Properties.Resources.resources
+C:\Jasmine\JasmineHomeVideo\JasmineHomeVideo\vse-znaika\vse-znaika\obj\Debug\net10.0-windows\vse-znaika.csproj.GenerateResource.cache
+C:\Jasmine\JasmineHomeVideo\JasmineHomeVideo\vse-znaika\vse-znaika\obj\Debug\net10.0-windows\vse-znaika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jasmine\JasmineHomeVideo\JasmineHomeVideo\vse-znaika\vse-znaika\obj\Debug\net10.0-windows\vse-znaika.AssemblyInfoInputs.cache
+C:\Jasmine\JasmineHomeVideo\JasmineHomeVideo\vse-znaika\vse-znaika\obj\Debug\net10.0-windows\vse-znaika.AssemblyInfo.cs
+C:\Jasmine\JasmineHomeVideo\JasmineHomeVideo\vse-znaika\vse-znaika\obj\Debug\net10.0-windows\vse-znaika.csproj.CoreCompileInputs.cache
+C:\Jasmine\JasmineHomeVideo\JasmineHomeVideo\vse-znaika\vse-znaika\obj\Debug\net10.0-windows\vse-znaika.sourcelink.json
+C:\Jasmine\JasmineHomeVideo\JasmineHomeVideo\vse-znaika\vse-znaika\obj\Debug\net10.0-windows\vse-znaika.dll
+C:\Jasmine\JasmineHomeVideo\JasmineHomeVideo\vse-znaika\vse-znaika\obj\Debug\net10.0-windows\refint\vse-znaika.dll
+C:\Jasmine\JasmineHomeVideo\JasmineHomeVideo\vse-znaika\vse-znaika\obj\Debug\net10.0-windows\vse-znaika.pdb
+C:\Jasmine\JasmineHomeVideo\JasmineHomeVideo\vse-znaika\vse-znaika\obj\Debug\net10.0-windows\vse-znaika.genruntimeconfig.cache
+C:\Jasmine\JasmineHomeVideo\JasmineHomeVideo\vse-znaika\vse-znaika\obj\Debug\net10.0-windows\ref\vse-znaika.dll
+C:\Jasmine\JasmineHomeVideo\JasmineHomeVideo\vse-znaika\vse-znaika\obj\Debug\net10.0-windows\vse-znaika.csproj.Up2Date
+>>>>>>> dcff06d126e7a6a5bece25b9645e894d61736d3e

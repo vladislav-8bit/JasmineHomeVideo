@@ -1,23 +1,37 @@
 {
   "format": 1,
   "restore": {
-    "C:\\vse-znaika\\JasmineHomeVideo\\vse-znaika\\vse-znaika\\vse-znaika.csproj": {}
+<<<<<<< HEAD
+    "C:\\Jasmine\\JasminHomeVideo3\\JasmineHomeVideo\\vse-znaika\\vse-znaika\\vse-znaika.csproj": {}
   },
   "projects": {
-    "C:\\vse-znaika\\JasmineHomeVideo\\vse-znaika\\vse-znaika\\vse-znaika.csproj": {
+    "C:\\Jasmine\\JasminHomeVideo3\\JasmineHomeVideo\\vse-znaika\\vse-znaika\\vse-znaika.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\vse-znaika\\JasmineHomeVideo\\vse-znaika\\vse-znaika\\vse-znaika.csproj",
+        "projectUniqueName": "C:\\Jasmine\\JasminHomeVideo3\\JasmineHomeVideo\\vse-znaika\\vse-znaika\\vse-znaika.csproj",
         "projectName": "vse-znaika",
-        "projectPath": "C:\\vse-znaika\\JasmineHomeVideo\\vse-znaika\\vse-znaika\\vse-znaika.csproj",
-        "packagesPath": "C:\\Users\\Nogin_hf60\\.nuget\\packages\\",
-        "outputPath": "C:\\vse-znaika\\JasmineHomeVideo\\vse-znaika\\vse-znaika\\obj\\",
+        "projectPath": "C:\\Jasmine\\JasminHomeVideo3\\JasmineHomeVideo\\vse-znaika\\vse-znaika\\vse-znaika.csproj",
+        "packagesPath": "C:\\Users\\Nikon_an38\\.nuget\\packages\\",
+        "outputPath": "C:\\Jasmine\\JasminHomeVideo3\\JasmineHomeVideo\\vse-znaika\\vse-znaika\\obj\\",
+=======
+    "C:\\Jasmine\\JasmineHomeVideo\\JasmineHomeVideo\\vse-znaika\\vse-znaika\\vse-znaika.csproj": {}
+  },
+  "projects": {
+    "C:\\Jasmine\\JasmineHomeVideo\\JasmineHomeVideo\\vse-znaika\\vse-znaika\\vse-znaika.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Jasmine\\JasmineHomeVideo\\JasmineHomeVideo\\vse-znaika\\vse-znaika\\vse-znaika.csproj",
+        "projectName": "vse-znaika",
+        "projectPath": "C:\\Jasmine\\JasmineHomeVideo\\JasmineHomeVideo\\vse-znaika\\vse-znaika\\vse-znaika.csproj",
+        "packagesPath": "C:\\Users\\Nikon_an38\\.nuget\\packages\\",
+        "outputPath": "C:\\Jasmine\\JasmineHomeVideo\\JasmineHomeVideo\\vse-znaika\\vse-znaika\\obj\\",
+>>>>>>> dcff06d126e7a6a5bece25b9645e894d61736d3e
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Nogin_hf60\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Nikon_an38\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
