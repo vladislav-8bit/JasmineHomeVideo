@@ -27,17 +27,7 @@ namespace vse_znaika
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Form2 newForm = new Form2();
 
-            // Подписываемся на событие закрытия второго окна,
-            // чтобы снова показать главное
-            newForm.FormClosed += (s, args) => this.Show();
-
-            // Скрываем главное окно
-            this.Hide();
-
-            // Открываем второе окно
-            newForm.Show();
         }
     }
 }

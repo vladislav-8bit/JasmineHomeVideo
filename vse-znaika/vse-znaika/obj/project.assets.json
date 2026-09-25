@@ -8,31 +8,23 @@
     "net10.0-windows": []
   },
   "packageFolders": {
-    "C:\\Users\\Nikon_an38\\.nuget\\packages\\": {},
+    "C:\\Users\\Nogin_hf60\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\Jasmine\\JasminHomeVideo3\\JasmineHomeVideo\\vse-znaika\\vse-znaika\\vse-znaika.csproj",
+      "projectUniqueName": "C:\\vse-znaika\\JasmineHomeVideo\\vse-znaika\\vse-znaika\\vse-znaika.csproj",
       "projectName": "vse-znaika",
-      "projectPath": "C:\\Jasmine\\JasminHomeVideo3\\JasmineHomeVideo\\vse-znaika\\vse-znaika\\vse-znaika.csproj",
-      "packagesPath": "C:\\Users\\Nikon_an38\\.nuget\\packages\\",
-      "outputPath": "C:\\Jasmine\\JasminHomeVideo3\\JasmineHomeVideo\\vse-znaika\\vse-znaika\\obj\\",
-=======
-      "projectUniqueName": "C:\\Jasmine\\JasmineHomeVideo\\JasmineHomeVideo\\vse-znaika\\vse-znaika\\vse-znaika.csproj",
-      "projectName": "vse-znaika",
-      "projectPath": "C:\\Jasmine\\JasmineHomeVideo\\JasmineHomeVideo\\vse-znaika\\vse-znaika\\vse-znaika.csproj",
-      "packagesPath": "C:\\Users\\Nikon_an38\\.nuget\\packages\\",
-      "outputPath": "C:\\Jasmine\\JasmineHomeVideo\\JasmineHomeVideo\\vse-znaika\\vse-znaika\\obj\\",
->>>>>>> dcff06d126e7a6a5bece25b9645e894d61736d3e
+      "projectPath": "C:\\vse-znaika\\JasmineHomeVideo\\vse-znaika\\vse-znaika\\vse-znaika.csproj",
+      "packagesPath": "C:\\Users\\Nogin_hf60\\.nuget\\packages\\",
+      "outputPath": "C:\\vse-znaika\\JasmineHomeVideo\\vse-znaika\\vse-znaika\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Nikon_an38\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Nogin_hf60\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

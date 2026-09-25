@@ -15,7 +15,6 @@ namespace vse_znaika
             InitializeComponent();
         }
 
-<<<<<<< HEAD
         private void Form2_Load(object sender, EventArgs e)
         {
 
@@ -30,11 +29,6 @@ namespace vse_znaika
         {
             this.Owner.Show();   // показываем спрятанную Form1
             this.Close();        // закрываем Form2
-=======
-        private void button1_Click(object sender, EventArgs e)
-        {
-            this.Close();
->>>>>>> dcff06d126e7a6a5bece25b9645e894d61736d3e
         }
     }
 }

@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "4z0ieiqeUQw=",
+  "dgSpecHash": "toBcLj5C9/8=",
   "success": true,
-  "projectFilePath": "C:\\Jasmine\\JasminHomeVideo3\\JasmineHomeVideo\\vse-znaika\\vse-znaika\\vse-znaika.csproj",
-=======
-  "dgSpecHash": "S+e8xWzEN1Y=",
-  "success": true,
-  "projectFilePath": "C:\\Jasmine\\JasmineHomeVideo\\JasmineHomeVideo\\vse-znaika\\vse-znaika\\vse-znaika.csproj",
->>>>>>> dcff06d126e7a6a5bece25b9645e894d61736d3e
+  "projectFilePath": "C:\\vse-znaika\\JasmineHomeVideo\\vse-znaika\\vse-znaika\\vse-znaika.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

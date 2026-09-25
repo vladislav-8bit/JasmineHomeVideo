@@ -63,7 +63,7 @@
             button3.Name = "button3";
             button3.Size = new Size(75, 23);
             button3.TabIndex = 2;
-            button3.Text = "Задачи";
+            button3.Text = "Угадки";
             button3.UseVisualStyleBackColor = true;
             button3.Click += button3_Click;
             // 
